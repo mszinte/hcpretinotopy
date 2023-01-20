@@ -1,4 +1,9 @@
 Adapted by Martin Szinte to create videos for the INT-MRI center.
+Main info: https://osf.io/bw9ec/wiki/home/
+Code info: http://cvnlab.net/analyzePRF/
+Download these files:
+http://cvnlab.net/analyzePRF/fixationgrid.mat
+http://cvnlab.net/analyzePRF/workspace_retinotopyCaltsmash.mat
 
 
 This is a collection of MATLAB utilities developed by Kendrick Kay (kendrick@post.harvard.edu, http://kendrickkay.net).  The philosophy of the code is to maximize power (i.e. the ability to perform many different things) and generality (i.e. the ability to re-use code for many different situations).  Let me know if you have comments.
